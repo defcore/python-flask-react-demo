@@ -1,3 +1,4 @@
 /app/static/bower_components
 /app/database.db
 /node_modules
+/.idea
