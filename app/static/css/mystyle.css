@@ -1,0 +1,29 @@
+h1.test {
+    color: red;
+}
+
+.myinput {
+    width: 50%;
+}
+
+.navbar-default {
+    background-color: teal;
+    background-image: none;
+    background-repeat: no-repeat;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: yellow;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: yellow;
+}

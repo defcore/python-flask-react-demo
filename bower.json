@@ -1,0 +1,7 @@
+{
+  "name": "Demo",
+  "dependencies": {
+    "react": "^15.6.1",
+    "babel": "^5.8.38"
+  }
+}
